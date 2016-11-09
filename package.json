@@ -1,0 +1,27 @@
+{
+  "name": "lian-jien-apimock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "drakov": "^1.0.1"
+  },
+  "dependencies": {
+    "browser-sync": "^2.17.5",
+    "drakov": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-aglio": "^0.0.10",
+    "gulp-connect": "^5.0.0",
+    "gulp-debug": "^2.1.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-watch": "^4.3.10",
+    "hercule": "^3.0.5",
+    "through2": "^2.0.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
